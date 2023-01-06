@@ -1,3 +1,5 @@
+# reference: "https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html#data"
+
 from multiprocessing import freeze_support
 import torch
 import torch.nn.parallel
