@@ -1,3 +1,5 @@
+# reference: "https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html"
+
 import models
 from models import *
 from dataset import *
