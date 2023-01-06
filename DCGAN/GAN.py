@@ -1,3 +1,5 @@
+# refered to the homework assignment of an undergraduate deep learning course that I took this Spring
+
 import os
 import torch
 import torchvision
